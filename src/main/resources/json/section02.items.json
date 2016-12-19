@@ -1,0 +1,19 @@
+[{
+    "img": "img/main_section02_01.jpg",
+    "title": "겨울별미 새우구이 맛집",
+    "desc": "맛있게 드새우~",
+    "editorPic" : "img/editor01.jpg",
+    "editorName": "꺼벙이"
+},{
+    "img": "img/main_section02_02.jpg",
+    "title": "한국인의 소울푸드 곱창맛집",
+    "desc": "\"곱창에도 첫눈이 내렸어요.\"",
+    "editorPic" : "img/editor02.jpg",
+    "editorName": "수염맨"
+},{
+    "img": "img/main_section02_03.jpg",
+    "title": "팬케이크 맛집",
+    "desc": "맛있게 먹으면 0kcal",
+    "editorPic" : "img/editor03.jpg",
+    "editorName": "화신이"
+}]

@@ -1,0 +1,50 @@
+[{
+    "img": "img/main_section03_01.jpg",
+    "name": "골때리는날",
+    "score": 3.5,
+    "location": "종로/종각",
+    "category": "일반주점"
+},{
+    "img": "img/main_section03_02.jpg",
+    "name": "코헤이우동",
+    "score": 3.8,
+    "location": "상수/합정",
+    "category": "일식, 우동"
+},{
+    "img": "img/main_section03_03.jpg",
+    "name": "스시이찌방",
+    "score": 4.1,
+    "location": "여의도",
+    "category": "스시, 사시미"
+},{
+    "img": "img/main_section03_04.jpg",
+    "name": "남선",
+    "score": 3.9,
+    "location": "공덕",
+    "category": "중화요리"
+},{
+    "img": "img/main_section03_05.jpg",
+    "name": "빅토리아스테라스",
+    "score": 3.4,
+    "location": "이태원",
+    "category": "펍, 호프"
+},{
+    "img": "img/main_section03_06.jpg",
+    "name": "제레미스키친",
+    "score": 4.0,
+    "location": "해방촌",
+    "category": "수제버거"
+},{
+    "img": "img/main_section03_07.jpg",
+    "name": "비커밍제인",
+    "score": 3.6,
+    "location": "가로수길",
+    "category": "브런치"
+   
+},{
+    "img": "img/main_section03_08.jpg",
+    "name": "롤링인더딥",
+    "score": 3.8,
+    "location": "이태원 ",
+    "category": "바, 칵테일"
+}]
